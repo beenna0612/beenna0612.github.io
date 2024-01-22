@@ -1,0 +1,55 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #69443c;
+    text-align: center;
+    font-size: 60px;
+}
+
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #30334b;
+    text-align: center;
+    font-size: 22px;
+
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #30334b;
+    text-align: center;
+    font-size: 35px;
+    text-wrap: auto;
+}
+
+body {
+    background-image: url(images/jenny\ midterm.jpeg);
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+}
+
+li a {
+    display: block;
+    color: #69443c;
+    padding: 8px 16px;
+    text-decoration: none;
+    background-color: white;
+    margin: 8px 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+
+}
+
+.left {
+    width: 450px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+}
