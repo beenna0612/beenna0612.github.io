@@ -1,0 +1,28 @@
+li a {
+    display: block;
+    color: #69443c;
+    padding: 8px 16px;
+    text-decoration: none;
+    background-color: white;
+    margin: 8px 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    width: 80px}
+a img {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+h1{font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ad9e8e;
+    text-align: center;
+    font-size: 70px;
+}
+p{font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #69443c;
+    text-align: center;
+    font-size: 15px;
+background-color: ghostwhite;}
+
+body{background-image: url(images/image-removebg-preview\ \(18\).png);
+    background-size: fit;}

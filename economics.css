@@ -1,14 +1,28 @@
+li a {
+    display: block;
+    color: #69443c;
+    padding: 8px 16px;
+    text-decoration: none;
+    background-color: white;
+    margin: 8px 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+width: 80px;}
 a img {
     display: block;
     margin: auto;
     margin-top: 20px;
 }
 h1{font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #ad9e8e;
+    color: #002c7e;
     text-align: center;
     font-size: 70px;
 }
 p{font-family: Georgia, 'Times New Roman', Times, serif;
-    color: whitesmoke;
+    color: #69443c;
     text-align: center;
-    font-size: 15px;}
+    font-size: 15px;
+background-color: aliceblue;}
+
+body{background-image: url(images/스크린샷\ 2024-01-26\ 오후\ 2.07.44.png);
+        background-size: cover;}

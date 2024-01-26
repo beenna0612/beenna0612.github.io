@@ -11,3 +11,19 @@ p{font-family: Georgia, 'Times New Roman', Times, serif;
     color: whitesmoke;
     text-align: center;
     font-size: 15px;}
+
+.portfolioprojects {
+   display: flex;
+   justify-content: center;
+}
+
+.navbar{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
+.button{
+    margin: 0 5px;
+    width: 80px;
+
+}
